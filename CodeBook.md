@@ -1,6 +1,6 @@
 # About the source data
 This data refer to the Human Activity Recognition Using Smartphones Data Set, available at the UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-It represents Here are the data for the project:
+Here is the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # About the R Script
